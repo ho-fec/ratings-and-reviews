@@ -4,10 +4,9 @@
 
 ## Related Projects
 
-  - https://github.com/teamName/repo
-  - https://github.com/teamName/repo
-  - https://github.com/teamName/repo
-  - https://github.com/teamName/repo
+  - https://github.com/ho-fec/product-details
+  - https://github.com/ho-fec/explore-this-product
+  - https://github.com/ho-fec/similar-products
 
 ## Table of Contents
 
@@ -17,14 +16,14 @@
 
 ## Usage
 
-> Some usage instructions
+> Navigate to localhost:3003 to see the ratings and reviews section of a Sephora product page clone.
 
 ## Requirements
 
-An `nvmrc` file is included if using [nvm](https://github.com/creationix/nvm).
+An `nvmrc` file is included if using [nvm].
 
 - Node 6.13.0
-- etc
+
 
 ## Development
 
@@ -32,8 +31,17 @@ An `nvmrc` file is included if using [nvm](https://github.com/creationix/nvm).
 
 From within the root directory:
 
+1. Install required dependencies 
 ```sh
-npm install -g webpack
 npm install
 ```
+2. Create bundle using webpack
+```sh
+npm run build
+```
+3. Start server
+```sh
+npm start
+```
+
 
