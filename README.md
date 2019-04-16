@@ -1,6 +1,6 @@
 # Project Name
 
-> Project description
+> Ratings and reviews section of a Sephora product page clone
 
 ## Related Projects
 
@@ -16,7 +16,7 @@
 
 ## Usage
 
-> Navigate to localhost:3003 to see the ratings and reviews section of a Sephora product page clone.
+Navigate to localhost:3003 to see the ratings and reviews section of a Sephora product page clone.
 
 ## Requirements
 
